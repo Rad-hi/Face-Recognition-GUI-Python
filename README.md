@@ -40,7 +40,7 @@ I recommend watching this [video, https://www.youtube.com/playlist?list=PLEsfXFp
 
 - This interface will open:
 
-<img src="" width="960">
+<img src="images/Interface.png" width="960">
 
 - The stream should've already started, smile!
 
