@@ -2,9 +2,10 @@ import face_recognition
 import cv2
 
 MODEL ="hog" #could be either "hog" less accurate than its "cnn" counterpart but faster
+
 #precision of the model, the bigger its tolerance 
 #the less accurate it is (between 1 & 0)
-TOLERANCE = 0.6 
+TOLERANCE = 0.2 
 KNOWN_FACES = {}
 KNOWN_FACES_ENCODINGS = []
 FONT = cv2.FONT_HERSHEY_SIMPLEX
